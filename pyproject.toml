@@ -37,6 +37,8 @@ dependencies = [
     "wikipedia>=1.4.0",
     "langchain-classic>=0.3.0",
     "lxml>=6.0.2",
+    "duckduckgo-search",
+    "pypdf",
 ]
 
 [tool.uv]
